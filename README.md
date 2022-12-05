@@ -1,2 +1,2 @@
 # GP1
-Game Project UFO 
+Game Project 1 UFO 
